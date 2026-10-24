@@ -9,9 +9,9 @@ I build accessible, performant, and maintainable web interfaces. Focused on clea
   <a href="https://www.linkedin.com/in/jose-luis-romero-vasquez" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:romerojose.dev@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
-  </a>
+<a href="mailto:romerojose.dev@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7/icons/gmail/gmail.svg" alt="Email" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
