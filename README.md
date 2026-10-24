@@ -10,7 +10,7 @@ I build accessible, performant, and maintainable web interfaces. Focused on clea
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 <a href="mailto:romerojose.dev@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7/icons/gmail/gmail.svg" alt="Email" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail/gmail.svg" alt="Email" height="30" width="40" />
 </a>
 </p>
 
